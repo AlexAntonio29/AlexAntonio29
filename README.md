@@ -33,7 +33,7 @@ Gestión de pacientes, citas médicas, historias clínicas y facturación.
 ### Red Moon - Videojuegos
 [![https://github.com/tuusuario/taskflow](https://alexantonio29.github.io/Proyectos-Alexis-Antonio/static/media/p7.56b16d7a0659fdbfe60d.PNG)](https://github.com/AlexAntonio29/red-moon)
 
-Videojuegos Web de survival horror desafiante con mecanicas soulsLike inspirado en blasphemous. Llevas el papel de un caballero anonimo intentando resolver los misterios de su mundo inmersivo.
+Videojuegos Web de survival horror desafiante con mecanicas soulsLike inspirado en blasphemous. Llevas el papel de un caballero anonimo intentando resolver los misterios de su pasado.
 - **Lenguaje:** JavaScript
 - **Framework:** Phaser
 

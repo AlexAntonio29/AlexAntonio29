@@ -13,7 +13,7 @@ Buscando nuevos desafios mediante la colaboracion y problemas complejos.
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend** | Java • Spring Boot • JPA/Hibernate • REST APIs |
+| **Backend** | Java • Spring Boot • JPA/Hibernate • REST APIs • Phaser |
 | **Frontend** | JavaScript • React • HTML5 • CSS3 |
 | **Base de Datos** | PostgreSQL • MySQL • SQL |
 | **Herramientas** | Git • GitHub • Postman • Maven |

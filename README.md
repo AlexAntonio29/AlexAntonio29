@@ -37,12 +37,22 @@ Videojuegos Web de survival horror desafiante con mecanicas soulsLike inspirado 
 - **Lenguaje:** JavaScript
 - **Framework:** Phaser
 
+- ###  Mi Gustito Snacks
+[![ GitHub](https://alexantonio29.github.io/Proyectos-Alexis-Antonio/static/media/p6.1f13e36a0cc8cb90d4b8.PNG)](https://github.com/AlexAntonio29/mi_gustito_snack)
+
+Sistema Web de toma de pedidos
+- **Backend:** JavaScript, PostgresSql
+- **Frontend:** React, Axios, CSS Modules
+- **Características:** Autenticación JWT
+
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-z%C3%B3simo-antonio-angel-546054300/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexantonioangel2910@gmail.com)
+[![Web](https://img.shields.io/badge/Page-Web-brightgreen
+)](https://alexantonio29.github.io/Proyectos-Alexis-Antonio/inicio)
 
 📍 Guadalajara, México | Abierto a trabajo remoto
 

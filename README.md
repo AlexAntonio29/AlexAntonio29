@@ -1,13 +1,58 @@
-# DESCRIPCION
+#👋 Hola, soy Alexis Antonio Angel
 
-El siglo XXI, es el siglo de la tecnología, dado que muchas de estas se ven beneficiado con los grandes avances que se han estado llevando en estos tiempos. Es así como el desarrollo de un entorno de crecimiento ha estado abundando,el sector de la programación es uno de los pílares fundamentales a que esto se lleve a cabo. Asi pues, los grandes ambitos de conocimientos son prácticamente infinitos para los programadores.
+##  Desarrollador Full Stack Java | React | Spring Boot
 
-Mi nombre es Alexis Zósimo Antonio Angel y soy un desarrollador de software, desarrollar sistemas es algo que me ha agradado desde joven por lo que la razón de ser en estos tiempos es un buen momento para mi como ser humano. Conocer nuevas tecnologías es un reto que siempre estoy dispuesto a aceptar.
+Ingeniero en Sistemas Computacionales. 
+Construyo aplicaciones web completas, desde la API en Java hasta la interfaz en React.
 
-Mi especialidad es la creacion de sistemas eficientes que cumples ciertos requisitos y automatizan la actividad repetitiva del ser humano, ademas de crear sistemas con una UI comoda para el usuario, crear programas que realizan actividades complejas para un fín.
+Buscando nuevos desafios mediante la colaboracion y problemas complejos.
 
-puedes revisar mas de mis trabajos en mi pagina web donde actualizo constantemente lo mas relevante y que ha infundido un gran impacto para apreciar mas el mundo del desarrollo de software
+---
 
-### [Click Aquí](https://alexantonio29.github.io/Proyectos-Alexis-Antonio/inicio)
+## 🛠️ Tecnologías
 
-[![GitHub Logo](https://ugeek.github.io/blog/images-blog/githubpages.png)](https://alexantonio29.github.io/Proyectos-Alexis-Antonio/inicio)
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java • Spring Boot • JPA/Hibernate • REST APIs |
+| **Frontend** | JavaScript • React • HTML5 • CSS3 |
+| **Base de Datos** | PostgreSQL • MySQL • SQL |
+| **Herramientas** | Git • GitHub • Postman • Maven |
+
+---
+
+##  Proyectos Destacados
+
+###  Sistema de Gestión para Consultorio Médico
+[🔗 GitHub](https://github.com/tuusuario/consultorio-medico) | [🎥 Demo GIF](./assets/consultorio.gif)
+
+Gestión de pacientes, citas médicas, historias clínicas y facturación.
+- **Backend:** Java, Spring Boot, JPA, PostgreSQL
+- **Frontend:** React, Axios, CSS Modules
+- **Características:** Autenticación JWT, roles (admin/médico), reportes PDF
+
+### ✅ TaskFlow - Gestor de Tareas
+[🔗 GitHub](https://github.com/tuusuario/taskflow) | [🔗 Demo](https://taskflow.vercel.app)
+
+Aplicación para organizar tareas personales con equipos.
+- **Stack:** Spring Boot, React, MySQL
+- **Despliegue:** Railway (backend) + Vercel (frontend)
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-z%C3%B3simo-antonio-angel-546054300/)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexantonioangel2910@gmail.com)
+
+📍 Guadalajara, México | Abierto a trabajo remoto
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+
+---
+
+⭐ *"Construye, documenta, comparte. El resto viene solo."*

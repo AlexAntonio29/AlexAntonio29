@@ -3,9 +3,9 @@
 ##  Desarrollador Full Stack Java | React | Spring Boot
 
 Ingeniero en Sistemas Computacionales. 
-Construyo aplicaciones web completas, desde la API en Java hasta la interfaz en React.
+Construyo aplicaciones web completas y aplicaciones moviles tanto para desarrollo de Frontend como backend, trabajo desde el la creacion de API como desde el REST de la misma de diferentes en paginas web o dispositivos moviles para Android o IOS.
 
-Buscando nuevos desafios mediante la colaboracion y problemas complejos.
+
 
 ---
 
@@ -13,9 +13,9 @@ Buscando nuevos desafios mediante la colaboracion y problemas complejos.
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend** | Java • Spring Boot • JPA/Hibernate • REST APIs • Phaser |
-| **Frontend** | JavaScript • React • HTML5 • CSS3 |
-| **Base de Datos** | PostgreSQL • MySQL • SQL |
+| **Backend** | Java • Spring Boot • JPA/Hibernate • REST APIs • Phaser • Node.js|
+| **Frontend** | JavaScript • React • HTML5 • CSS3 • Flutter • Dart |
+| **Base de Datos** | PostgreSQL • MySQL • SQL • SQLite |
 | **Herramientas** | Git • GitHub • Postman • Maven |
 
 ---
@@ -57,12 +57,3 @@ Sistema Web de toma de pedidos
 📍 Guadalajara, México | Abierto a trabajo remoto
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
-
----
-
-⭐ *"Construye, documenta, comparte. El resto viene solo."*
